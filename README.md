@@ -4,6 +4,7 @@
 
 ## How to Run
 - Simply run "Furari.exe" and it'll run you through the building instructions  via command prompt
+![image](https://github.com/user-attachments/assets/02aef180-094a-473c-acba-9542d20f559a)
 
 
 ## Features
