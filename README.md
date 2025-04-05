@@ -3,7 +3,7 @@
 </h1>
 
 ## How to Run
-- simply run the .exe and it'll by itself run you through the commands and functiosn
+- Simply run "Furari.exe" and it'll run you through the building instructions  via command prompt
 
 
 ## Features
